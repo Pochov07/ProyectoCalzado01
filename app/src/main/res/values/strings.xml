@@ -1,3 +1,29 @@
 <resources>
-    <string name="app_name">ProyectoCalzado01</string>
+    <string name="app_name">Menu de operaciones</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="nombre_de_categoria">Nombre de categoría</string>
+    <string name="btnImg">añadir imagen</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="usuario">USUARIO</string>
+    <string name="password">PASSWORD</string>
+    <string name="iniciar_sesi_n">INICIAR SESIÓN</string>
+    <string name="n_ruc">Nº RUC</string>
+    <string name="raz_n_social">Razón Social</string>
+    <string name="direcci_n">Dirección</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="c_digo">código</string>
+    <string name="cod">CÓDIGO</string>
+    <string name="nombrep">NOMBRE</string>
+    <string name="color">COLOR</string>
+    <string name="stock">STOCK</string>
+    <string name="precio">PRECIO</string>
+    <string name="talla">TALLA</string>
+    <string name="descrpci_n">Descrpción</string>
 </resources>
